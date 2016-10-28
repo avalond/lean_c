@@ -2,6 +2,8 @@ void whileMain();
 
 void forclass();
 
+void getCurrentTime();
+
 //
 // Created by kevin on 16-10-10.
 // this is main will get some functions
@@ -12,8 +14,9 @@ int main() {
     //whileMain();
 
     //for
-    forclass();
-
+    // forclass();
+    //get Current time
+    getCurrentTime();
 
 }
 
