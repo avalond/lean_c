@@ -3,6 +3,7 @@ void whileMain();
 void forclass();
 
 void getCurrentTime();
+void carray();
 
 //
 // Created by kevin on 16-10-10.
@@ -16,7 +17,8 @@ int main() {
     //for
     // forclass();
     //get Current time
-    getCurrentTime();
+    //getCurrentTime();
+    carray();
 
 }
 
